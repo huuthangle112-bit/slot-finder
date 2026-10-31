@@ -1,4 +1,4 @@
-# The Slot Finder — PMO Resource Planning Assistant
+# The Slot Finder: PMO Resource Planning Assistant
 
 ## Overview
 
