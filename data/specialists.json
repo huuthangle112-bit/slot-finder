@@ -1,0 +1,74 @@
+[
+  {
+    "id": "S001",
+    "name": "Alex Morgan",
+    "role": "Engineer",
+    "skills": ["API integration", "automation", "data migration"],
+    "seniority": "Senior",
+    "weeklyCapacity": 5,
+    "maxUtilization": 0.85
+  },
+  {
+    "id": "S002",
+    "name": "Casey Patel",
+    "role": "Analyst",
+    "skills": ["workflow design", "data validation", "client communication"],
+    "seniority": "Mid",
+    "weeklyCapacity": 5,
+    "maxUtilization": 0.85
+  },
+  {
+    "id": "S003",
+    "name": "Jordan Lee",
+    "role": "PM",
+    "skills": ["workflow design", "client communication", "delivery planning"],
+    "seniority": "Senior",
+    "weeklyCapacity": 5,
+    "maxUtilization": 0.85
+  },
+  {
+    "id": "S004",
+    "name": "Taylor Kim",
+    "role": "QA",
+    "skills": ["QA validation", "data validation", "automation"],
+    "seniority": "Mid",
+    "weeklyCapacity": 5,
+    "maxUtilization": 0.85
+  },
+  {
+    "id": "S005",
+    "name": "Riley Chen",
+    "role": "Engineer",
+    "skills": ["workflow design", "API integration", "accessibility"],
+    "seniority": "Mid",
+    "weeklyCapacity": 5,
+    "maxUtilization": 0.85
+  },
+  {
+    "id": "S006",
+    "name": "Morgan Diaz",
+    "role": "PM",
+    "skills": ["client communication", "delivery planning"],
+    "seniority": "Mid",
+    "weeklyCapacity": 5,
+    "maxUtilization": 0.85
+  },
+  {
+    "id": "S007",
+    "name": "Jamie Park",
+    "role": "QA",
+    "skills": ["QA validation", "regression testing"],
+    "seniority": "Senior",
+    "weeklyCapacity": 5,
+    "maxUtilization": 0.85
+  },
+  {
+    "id": "S008",
+    "name": "Avery Brooks",
+    "role": "Analyst",
+    "skills": ["data migration", "data validation", "reporting"],
+    "seniority": "Senior",
+    "weeklyCapacity": 5,
+    "maxUtilization": 0.85
+  }
+]
