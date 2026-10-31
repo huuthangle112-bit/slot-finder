@@ -1,0 +1,71 @@
+[
+  {
+    "id": "P001",
+    "name": "Customer Delta Workflow Automation",
+    "customer": "Customer Delta",
+    "priority": "P1",
+    "deadline": "2026-11-30",
+    "size": "Medium",
+    "complexity": "High",
+    "requiredRoles": ["PM", "Analyst", "Engineer", "QA"],
+    "requiredSkills": ["workflow design", "API integration", "QA validation"],
+    "estimatedEffortByRole": {
+      "PM": 3,
+      "Analyst": 5,
+      "Engineer": 7,
+      "QA": 4
+    },
+    "status": "New"
+  },
+  {
+    "id": "P002",
+    "name": "Customer Atlas Data Migration",
+    "customer": "Customer Atlas",
+    "priority": "P1",
+    "deadline": "2026-11-22",
+    "size": "Large",
+    "complexity": "High",
+    "requiredRoles": ["PM", "Analyst", "Engineer", "QA"],
+    "requiredSkills": ["data migration", "API integration", "data validation"],
+    "estimatedEffortByRole": {
+      "PM": 4,
+      "Analyst": 6,
+      "Engineer": 9,
+      "QA": 5
+    },
+    "status": "In Progress"
+  },
+  {
+    "id": "P003",
+    "name": "Customer Nova QA Review",
+    "customer": "Customer Nova",
+    "priority": "P2",
+    "deadline": "2026-11-18",
+    "size": "Small",
+    "complexity": "Medium",
+    "requiredRoles": ["PM", "QA"],
+    "requiredSkills": ["QA validation", "client communication"],
+    "estimatedEffortByRole": {
+      "PM": 2,
+      "QA": 4
+    },
+    "status": "Assigned"
+  },
+  {
+    "id": "P004",
+    "name": "Customer Orion Integration Setup",
+    "customer": "Customer Orion",
+    "priority": "P0",
+    "deadline": "2026-11-20",
+    "size": "Medium",
+    "complexity": "High",
+    "requiredRoles": ["PM", "Engineer", "QA"],
+    "requiredSkills": ["API integration", "automation", "QA validation"],
+    "estimatedEffortByRole": {
+      "PM": 2,
+      "Engineer": 6,
+      "QA": 3
+    },
+    "status": "New"
+  }
+]

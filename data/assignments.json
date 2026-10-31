@@ -1,0 +1,34 @@
+[
+  {
+    "projectId": "P002",
+    "specialistId": "S001",
+    "role": "Engineer",
+    "effortDays": 4,
+    "startDate": "2026-11-10",
+    "endDate": "2026-11-17"
+  },
+  {
+    "projectId": "P002",
+    "specialistId": "S003",
+    "role": "PM",
+    "effortDays": 3,
+    "startDate": "2026-11-10",
+    "endDate": "2026-11-17"
+  },
+  {
+    "projectId": "P002",
+    "specialistId": "S008",
+    "role": "Analyst",
+    "effortDays": 4,
+    "startDate": "2026-11-10",
+    "endDate": "2026-11-17"
+  },
+  {
+    "projectId": "P003",
+    "specialistId": "S004",
+    "role": "QA",
+    "effortDays": 4,
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-18"
+  }
+]
