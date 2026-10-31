@@ -8,6 +8,7 @@ import type { Specialist } from "../types/specialist";
 import { generateRecommendation } from "../lib/recommendations";
 import { CapacityBoard } from "./CapacityBoard";
 import { RecommendationTable } from "./RecommendationTable";
+import { ScenarioSimulator } from "./ScenarioSimulator";
 
 const initialStartDate = "2026-11-10";
 
@@ -180,6 +181,7 @@ export function PlanningDashboard({
             specialists={specialists}
             assignments={assignments}
           />
+          <ScenarioSimulator />
         </div>
 
         <footer className="mt-8 border-t border-slate-200 pt-4 text-xs leading-5 text-slate-500">
