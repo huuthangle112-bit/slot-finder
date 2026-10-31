@@ -14,7 +14,7 @@ The app compares project demand against specialist supply and recommends feasibl
 
 ## Live Demo
 
-Not deployed yet. Add the deployed Vercel URL here when available.
+https://github.com/huuthangle112-bit/slot-finder
 
 ## GitHub Repository
 
